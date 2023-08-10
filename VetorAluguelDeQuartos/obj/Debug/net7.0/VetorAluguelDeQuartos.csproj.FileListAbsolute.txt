@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\bin\Debug\net7.0\VetorAluguelDeQuartos.exe
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\bin\Debug\net7.0\VetorAluguelDeQuartos.deps.json
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\bin\Debug\net7.0\VetorAluguelDeQuartos.runtimeconfig.json
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\bin\Debug\net7.0\VetorAluguelDeQuartos.dll
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\bin\Debug\net7.0\VetorAluguelDeQuartos.pdb
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.AssemblyInfo.cs
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.dll
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\refint\VetorAluguelDeQuartos.dll
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.pdb
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\VetorAluguelDeQuartos.genruntimeconfig.cache
+C:\codigos\projetos C#\VetorAluguelDeQuartos\VetorAluguelDeQuartos\obj\Debug\net7.0\ref\VetorAluguelDeQuartos.dll
